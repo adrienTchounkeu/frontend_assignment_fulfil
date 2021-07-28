@@ -6,7 +6,7 @@ export const api = route => {
 
     url += ':' + port
 
-    return 'https://backend-assignment-fulfil.herokuapp.com'
+    return 'https://backend-assignment-fulfil.herokuapp.com' + route
 }
 
 
