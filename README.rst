@@ -107,5 +107,5 @@ Tests
 
 
 .. |Node-Versions| image:: https://img.shields.io/npm/v/node?label=node&logo=node   :alt: Node Version
-.. |axios-Version| image:: https://img.shields.io/npm/v/axios?label=axios   :alt: axios Version
-.. |socketIO-Version| https://img.shields.io/npm/v/socket.io?label=socket.io   :alt: socketIO Version
+.. |axios-Version| image:: https://img.shields.io/npm/v/axios?label=axios
+.. |socketIO-Version| image:: https://img.shields.io/npm/v/socket.io?label=socket.io
