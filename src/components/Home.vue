@@ -89,7 +89,7 @@
 						<th>Status</th>
 						<th>Description</th>
 					</tr>
-					<template v-if="products">
+					<template v-if="products != []">
 						<tr v-for="product in products" :key="product.id">
 							<td>{{product.id}}</td>
 							<td>{{product.name}}</td>

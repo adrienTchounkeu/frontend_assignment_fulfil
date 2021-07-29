@@ -3,7 +3,7 @@ import App from './App.vue'
 import VueSocketIO from 'vue-socket.io';
 
 Vue.use(new VueSocketIO({
-    connection: 'https://backend-assignment-fulfil.herokuapp.com',
+    connection: 'http://localhost:8000',
 }))
 
 Vue.config.productionTip = false

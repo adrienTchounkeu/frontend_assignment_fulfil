@@ -1,12 +1,12 @@
 import axios from 'axios'
 
 export const api = route => {
-    /*let url = 'http://localhost'
+    let url = 'http://localhost'
     const port = 8000
 
-    url += ':' + port*/
+    url += ':' + port
 
-    return 'https://backend-assignment-fulfil.herokuapp.com' + route
+    return url + route
 }
 
 
